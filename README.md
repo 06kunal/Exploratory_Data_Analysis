@@ -25,7 +25,7 @@ seaborn – For statistical data visualization
 
 Various graphical methods were used to understand the dataset:
 
-Histogram – To visualize the distribution of numerical data.
+* Histogram – To visualize the distribution of numerical data.
 
 * Bar Chart – To compare different categories of book sales.
 
