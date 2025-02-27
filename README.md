@@ -15,11 +15,11 @@ This project analyzes book sales data using Python. The dataset contains various
 
 The following Python libraries were utilized for data processing and visualization:
 
-pandas – For data manipulation and analysis
+- pandas – For data manipulation and analysis
 
-matplotlib – For plotting graphs and charts
+- matplotlib – For plotting graphs and charts
 
-seaborn – For statistical data visualization
+- seaborn – For statistical data visualization
 
 ## Data Analysis & Visualization
 
